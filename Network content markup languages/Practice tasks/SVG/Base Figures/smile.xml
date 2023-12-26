@@ -1,0 +1,12 @@
+<svg width="400" height="400"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:ev="http://www.w3.org/2001/xml-events"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ellipse cx='200' cy='350' rx='110' ry='30' fill='#d3d3d3'></ellipse>
+    <circle r='150' cx='200' cy='200' fill='#fed700'></circle>
+    <circle r='65' cx='130' cy='180' fill='#ffffff'></circle>
+    <circle r='65' cx='230' cy='180' fill='#ffffff'></circle>
+    <circle r='15' cx='230' cy='180' fill='#000000'></circle>
+    <circle r='15' cx='130' cy='180' fill='#000000'></circle>
+    <ellipse cx='180' cy='280' rx='13' ry='25' fill='red'></ellipse>
+</svg>

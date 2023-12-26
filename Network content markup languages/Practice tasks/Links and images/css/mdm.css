@@ -1,0 +1,34 @@
+img{
+    width: 50%;
+    border: 1px solid whitesmoke;
+    box-shadow: 0px 0px 50px 15px rgb(245, 136, 99);
+}
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+figure{
+    text-align: center;
+    color:snow;
+}
+p{
+    text-align: left;
+}
+h3{
+    text-align: left;
+    color:rgb(245, 136, 99);
+}
+blockquote{
+    text-align: left;
+}
+html{
+    background-color: rgb(136, 136, 136);
+}
+hr{
+    border: none; 
+    color:rgb(245, 136, 99); 
+    background-color:rgb(245, 136, 99); 
+    height: 0.5px;
+}
+a{
+    color:rgb(247, 157, 127)
+}

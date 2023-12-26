@@ -1,0 +1,36 @@
+<svg width="1000" height="1000"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:ev="http://www.w3.org/2001/xml-events"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <defs>
+        <pattern id="curcles" x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse">
+        <circle cx="10" cy="10" r="10" fill="grey"  fill-opacity="1" />
+        <circle cx="15" cy="15" r="10" fill="pink"  fill-opacity="1" />
+
+        </pattern>
+        <pattern id="squares"  x="0" y="0" width="80" height="80"
+        patternUnits="userSpaceOnUse"
+        patternTransform="rotate(30)">
+
+        <g fill="#85D2FF"  fill-opacity="0.7">
+        <rect x="0" y="0" width="40" height="40" />
+        <rect x="40" y="40" width="40" height="40" />
+        </g>
+
+        </pattern>
+        <pattern id="cubes" x="0" y="100" patternUnits="userSpaceOnUse" width="126" height="200" viewBox="0 0 10 16">
+
+            <g id="cube" fill="orange">
+                <path class="left-shade" d="M0 0l5 3v5l-5 -3z"></path>
+                <path class="right-shade" d="M10 0l-5 3v5l5 -3"></path>
+            </g>
+            <use x="5" y="8" xlink:href="#cube"></use>
+            <use x="-5" y="8" xlink:href="#cube"></use>
+
+        </pattern>
+    </defs>
+        <rect x="10" y ="10" width="500" height="300" fill="url(#curcles)"></rect>
+        <rect x="10" y ="320" width="500" height="300" fill="url(#squares)"></rect>
+        <rect x="10" y="630" width="490" height="500" fill="url(#cubes)"></rect>
+</svg>

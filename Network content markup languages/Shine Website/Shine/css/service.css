@@ -1,0 +1,49 @@
+.serv__body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 170px;
+}
+.serv__block{
+    width: 1180px;
+    margin: 0px 0px 70px 0px;
+}
+.title__services{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    color: #A29C9E;
+    margin: 0px 0px 30px 0px;
+}
+.block__title{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-style: italic;
+    font-size: 20px;
+    margin: 0px 0px 10px 0px;
+    color: #FFC0C2;
+}
+.block__text{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    margin: 0px 0px 20px 0px;
+}
+.block__img{
+    text-align: center;
+}
+.back{
+    display: flex;
+    justify-content: center;
+    margin: 0px 0px 50px 0px;
+    font-weight: 500;
+    color: #FFC0C2;
+}
+.back:hover{
+    cursor: pointer;
+    background: linear-gradient(180deg, #FFD7D8 0%, #FED0D2 53.24%, #FFFFFF 160.24%);
+    box-shadow: 0px 8px 24px rgba(129, 135, 189, 0.15);
+    border-radius: 10px;
+    color: white;
+
+}

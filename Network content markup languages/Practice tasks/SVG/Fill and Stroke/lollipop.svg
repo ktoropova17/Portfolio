@@ -1,0 +1,10 @@
+<svg width="300" height="290"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:ev="http://www.w3.org/2001/xml-events"
+xmlns:xlink="http://www.w3.org/1999/xlink">>
+<rect fill="khaki" stroke="darkkhaki" width="10" height="70" x="145" y="220"/>
+<circle stroke="darkkhaki" r="100" cx="150" cy="125" fill="gold" />
+<circle r="70" cx="150" cy="125" fill="gold" stroke="tomato" stroke-width="20" stroke-dasharray="45" />
+<circle r="70" cx="150" cy="125" fill="none" stroke="darkorange" stroke-width="20" stroke-dasharray="45" stroke-dashoffset="45" />
+<circle r="50" cx="150" cy="125" fill="gold" stroke="yellowgreen" stroke-width="20"/>
+</svg>
