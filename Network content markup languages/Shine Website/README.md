@@ -1,24 +1,24 @@
 # Сайт для салона красоты "Shine"
 
-![Alt text](img/first.jpg)
+![Alt text](img/first.png)
 
 ## Целевая аудитория
 
-![Alt text](img/second.jpg)
+![Alt text](img/second.png)
 
 ## Мокапы
 
-![Alt text](img/third.jpg)
+![Alt text](img/third.png)
 
 ## Вайрфреймы
 
-![Alt text](img/fourth.jpg)
+![Alt text](img/fourth.png)
 
 ## Цветовая схема
 
-![Alt text](img/fifth.jpg)
+![Alt text](img/fifth.png)
 
 ## Шрифты
 
-![Alt text](img/sixth.jpg)
+![Alt text](img/sixth.png)
 
