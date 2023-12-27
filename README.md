@@ -13,3 +13,39 @@
             - [Паттерны, маски и маркеры](https://github.com/ktoropova17/Portfolio/tree/main/Network%20content%20markup%20languages/Practice%20tasks/SVG/Patterns%2C%20masks%20and%20markers)
             - [Масштабирование](https://github.com/ktoropova17/Portfolio/tree/main/Network%20content%20markup%20languages/Practice%20tasks/SVG/Scaling)
             - [Тексты, фильтры, градиенты](https://github.com/ktoropova17/Portfolio/tree/main/Network%20content%20markup%20languages/Practice%20tasks/SVG/Text%2C%20filters%20and%20gradients)
+
+- **[Основы компьютерной графики]()**
+    - [CorelDraw]()
+        - [Простой рисунок]()
+        - [Doodle]()
+        - [Макеты праздничных фигур]()
+        - [Леттеринг]()
+    - [Adobe Photoshop]()
+        - [Glassmorphism]()
+        - [Эффект размытых букв]()
+        - [Сфера]()
+        - [Афиша к фильму]()
+        - [Обложка для YouTube ролика]()
+        - [Портрет из текста]()
+        - [Билет на концерт]()
+    - [Figma]()
+        - [Плейлист]()
+
+
+- **[Ознакомительная практика "Основы дизайна"]()**
+    - [Стилизация природных форм]()
+    - [Плакаты]()
+
+
+- **[Визуальная айдентика]()**
+    - [Логотипы]()
+    - [Шаблоны для презентации]()
+
+
+- **[Дизайн веб-приложений]()**
+    - [Проект сайта]()
+    - [Сайт]()
+
+- **[Технологическая практика]()**
+    - [Chalk lettering]()
+    - [Викторианский леттеринг]()
