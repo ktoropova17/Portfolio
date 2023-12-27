@@ -1,4 +1,4 @@
-# Chalk lettering"
+# Chalk lettering
 
 ## Схема
 ![Alt text](scheme.jpg)
