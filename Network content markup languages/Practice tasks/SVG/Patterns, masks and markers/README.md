@@ -1,3 +1,3 @@
 # Задание "Паттерны, маски и маркеры"
 
-![Alt text](img/pattern.png)
+![Alt text](img/patterns.png)
