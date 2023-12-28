@@ -1,3 +1,3 @@
 # Роза Гранди. Turtle
 
-![Alt text](gif/show.gif)
+![Alt text](img/img.png)
