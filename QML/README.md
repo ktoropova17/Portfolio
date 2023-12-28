@@ -7,6 +7,7 @@
 ![Alt text](Stack_View/gif/show.gif)
 
 ## Стандартные элементы интерфейса
+
 ### Поля для ввода логина и пароля
 ![Alt text](Standart_interface_elements/login_password/gif/show.gif)
 
