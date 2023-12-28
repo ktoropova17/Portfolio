@@ -41,7 +41,7 @@ Window {
             stack_view.pop(page1)
         }
         onButton2Clicked: {
-            stack_view.push(page3)
+            stack_view.pop(page3)
         }
         onBackButtonClicked: {
             stack_view.pop()

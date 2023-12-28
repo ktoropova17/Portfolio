@@ -14,38 +14,29 @@
             - [Масштабирование](https://github.com/ktoropova17/Portfolio/tree/main/Network%20content%20markup%20languages/Practice%20tasks/SVG/Scaling)
             - [Тексты, фильтры, градиенты](https://github.com/ktoropova17/Portfolio/tree/main/Network%20content%20markup%20languages/Practice%20tasks/SVG/Text%2C%20filters%20and%20gradients)
 
-- **[Основы компьютерной графики](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics)**
-    - [CorelDraw]()
-        - [Простой рисунок](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/CorelDraw/Simple%20draw)
-        - [Doodle](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/CorelDraw/Doodle)
-        - [Макеты праздничных фигур](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/CorelDraw/Holiday%20figures)
-        - [Леттеринг](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/CorelDraw/Lettering)
-    - [Adobe Photoshop](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/Adobe%20Photoshop)
-        - [Glassmorphism](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/Adobe%20Photoshop/Glassmorphism)
-        - [Эффект размытых букв](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/Adobe%20Photoshop/Blurred%20letters)
-        - [Сфера](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/Adobe%20Photoshop/Sphere)
-        - [Афиша к фильму](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/Adobe%20Photoshop/Poster)
-        - [Обложка для YouTube ролика](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/Adobe%20Photoshop/YouTube%20cover)
-        - [Портрет из текста](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/Adobe%20Photoshop/Text%20portrait)
-        - [Билет на концерт](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/Adobe%20Photoshop/Ticket)
-    - [Figma](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/Figma)
-        - [Плейлист](https://github.com/ktoropova17/Portfolio/tree/main/Basics%20of%20computer%20graphics/Figma/Playlist)
-
-
-- **[Ознакомительная практика "Основы дизайна"](https://github.com/ktoropova17/Portfolio/tree/main/Practice%20Design%20Basics)**
-    - [Стилизация природных форм](https://github.com/ktoropova17/Portfolio/tree/main/Practice%20Design%20Basics/Nature%20forms)
-    - [Плакаты](https://github.com/ktoropova17/Portfolio/tree/main/Practice%20Design%20Basics/Posters)
-
-
-- **[Визуальная айдентика](https://github.com/ktoropova17/Portfolio/tree/main/Visual%20identity)**
-    - [Логотипы](https://github.com/ktoropova17/Portfolio/tree/main/Visual%20identity/Logos)
-    - [Шаблоны для презентации](https://github.com/ktoropova17/Portfolio/tree/main/Visual%20identity/Templates)
-
 
 - **[Дизайн веб-приложений](https://github.com/ktoropova17/Portfolio/tree/main/Design%20web%20apps)**
     - [Проект сайта](https://github.com/ktoropova17/Portfolio/tree/main/Design%20web%20apps/Project%20website)
     - [Сайт](https://github.com/ktoropova17/Portfolio/tree/main/Design%20web%20apps/Website)
 
-- **[Технологическая практика](https://github.com/ktoropova17/Portfolio/tree/main/Practice%202)**
-    - [Chalk lettering](https://github.com/ktoropova17/Portfolio/tree/main/Practice%202/Chalk%20lettering)
-    - [Викторианский леттеринг](https://github.com/ktoropova17/Portfolio/tree/main/Practice%202/Victorian%20lettering)
+- **[QML](https://github.com/ktoropova17/Portfolio/tree/main/QML)**
+    - [Layouts](https://github.com/ktoropova17/Portfolio/tree/main/QML/Layouts)
+    - [Stack View](https://github.com/ktoropova17/Portfolio/tree/main/QML/Stack%20View)
+    - [Standart interface elements](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements)
+    - [States and transitions](https://github.com/ktoropova17/Portfolio/tree/main/QML/States%20and%20transitions)
+        - [1](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements/1)
+        - [2](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements/2)
+    - [Swipe View](https://github.com/ktoropova17/Portfolio/tree/main/QML/Swipe%20View)
+    - [User interaction](https://github.com/ktoropova17/Portfolio/tree/main/QML/User%20interaction)
+    - [QML Project](https://github.com/ktoropova17/Portfolio/tree/main/QML/User%20interaction)
+
+
+- **[Программирование](https://github.com/ktoropova17/Portfolio/tree/main/QML)**
+    - [Игра Pygame на Sprite](https://github.com/ktoropova17/Portfolio/tree/main/QML/Layouts)
+    - [Игра "Змейка". Pygame](https://github.com/ktoropova17/Portfolio/tree/main/QML/Stack%20View)
+    - [Роза Гранди. Turtle](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements)
+    - [Pattern. Turtle](https://github.com/ktoropova17/Portfolio/tree/main/QML/States%20and%20transitions)
+
+
+- **[Объектно-ориентированное рограммирование](https://github.com/ktoropova17/Portfolio/tree/main/QML)**
+    - [Игра "Четыре в ряд"](https://github.com/ktoropova17/Portfolio/tree/main/QML/Layouts)
