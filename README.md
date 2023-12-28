@@ -21,13 +21,13 @@
 
 - **[QML](https://github.com/ktoropova17/Portfolio/tree/main/QML)**
     - [Layouts](https://github.com/ktoropova17/Portfolio/tree/main/QML/Layouts)
-    - [Stack View](https://github.com/ktoropova17/Portfolio/tree/main/QML/Stack%20View)
-    - [Стандартные элементы интерфейса](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements)
+    - [Stack View](https://github.com/ktoropova17/Portfolio/tree/main/QML/Stack_View)
+    - [Стандартные элементы интерфейса](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard_interface_elements)
         - [Поля для ввода логина и пароля](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements/login_password)
         - [Страница с вводом пароля](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements/pincode)
-    - [Состояния и переходы](https://github.com/ktoropova17/Portfolio/tree/main/QML/States%20and%20transitions)
-    - [Swipe View](https://github.com/ktoropova17/Portfolio/tree/main/QML/Swipe%20View)
-    - [Взаимодействие с пользователем](https://github.com/ktoropova17/Portfolio/tree/main/QML/User%20interaction)
+    - [Состояния и переходы](https://github.com/ktoropova17/Portfolio/tree/main/QML/States_and_transitions)
+    - [Swipe View](https://github.com/ktoropova17/Portfolio/tree/main/QML/Swipe_View)
+    - [Взаимодействие с пользователем](https://github.com/ktoropova17/Portfolio/tree/main/QML/User_interaction)
 
 
 - **[Программирование](https://github.com/ktoropova17/Portfolio/tree/main/Programming)**
@@ -38,4 +38,4 @@
 
 
 - **[Объектно-ориентированное программирование](https://github.com/ktoropova17/Portfolio/tree/main/OOP)**
-    - [Игра "Четыре в ряд"](https://github.com/ktoropova17/Portfolio/tree/main/OOP/Game%20Four_in_a_row)
+    - [Игра "Четыре в ряд"](https://github.com/ktoropova17/Portfolio/tree/main/OOP/Game_Four_in_a_row)
