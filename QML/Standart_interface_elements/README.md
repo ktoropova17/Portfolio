@@ -1,7 +1,7 @@
 # Стандартные элементы интерфейса
 
 ## Поля для ввода логина и пароля
-![Alt text](1/gif/show.gif)
+![Alt text](login_password/gif/show.gif)
 
 ## Страница с вводом пароля
-![Alt text](2/gif/show.gif)
+![Alt text](pincode/gif/show.gif)
