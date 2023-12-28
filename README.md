@@ -22,12 +22,12 @@
 - **[QML](https://github.com/ktoropova17/Portfolio/tree/main/QML)**
     - [Layouts](https://github.com/ktoropova17/Portfolio/tree/main/QML/Layouts)
     - [Stack View](https://github.com/ktoropova17/Portfolio/tree/main/QML/Stack%20View)
-    - [Standart interface elements](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements)
+    - [Стандартные элементы интерфейса](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements)
         - [Поля для ввода логина и пароля](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements/login_password)
         - [Страница с вводом пароля](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements/pincode)
-    - [States and transitions](https://github.com/ktoropova17/Portfolio/tree/main/QML/States%20and%20transitions)
+    - [Состояния и переходы](https://github.com/ktoropova17/Portfolio/tree/main/QML/States%20and%20transitions)
     - [Swipe View](https://github.com/ktoropova17/Portfolio/tree/main/QML/Swipe%20View)
-    - [User interaction](https://github.com/ktoropova17/Portfolio/tree/main/QML/User%20interaction)
+    - [Взаимодействие с пользователем](https://github.com/ktoropova17/Portfolio/tree/main/QML/User%20interaction)
 
 
 - **[Программирование](https://github.com/ktoropova17/Portfolio/tree/main/Programming)**
@@ -37,5 +37,5 @@
     - [Pattern. Turtle](https://github.com/ktoropova17/Portfolio/tree/main/Programming/turtle)
 
 
-- **[Объектно-ориентированное рограммирование](https://github.com/ktoropova17/Portfolio/tree/main/OOP)**
+- **[Объектно-ориентированное программирование](https://github.com/ktoropova17/Portfolio/tree/main/OOP)**
     - [Игра "Четыре в ряд"](https://github.com/ktoropova17/Portfolio/tree/main/OOP/Game%20Four_in_a_row)
