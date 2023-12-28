@@ -23,20 +23,19 @@
     - [Layouts](https://github.com/ktoropova17/Portfolio/tree/main/QML/Layouts)
     - [Stack View](https://github.com/ktoropova17/Portfolio/tree/main/QML/Stack%20View)
     - [Standart interface elements](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements)
+        - [Поля для ввода логина и пароля](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements/login_password)
+        - [Страница с вводом пароля](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements/pincode)
     - [States and transitions](https://github.com/ktoropova17/Portfolio/tree/main/QML/States%20and%20transitions)
-        - [1](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements/1)
-        - [2](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements/2)
     - [Swipe View](https://github.com/ktoropova17/Portfolio/tree/main/QML/Swipe%20View)
     - [User interaction](https://github.com/ktoropova17/Portfolio/tree/main/QML/User%20interaction)
-    - [QML Project](https://github.com/ktoropova17/Portfolio/tree/main/QML/User%20interaction)
 
 
-- **[Программирование](https://github.com/ktoropova17/Portfolio/tree/main/QML)**
-    - [Игра Pygame на Sprite](https://github.com/ktoropova17/Portfolio/tree/main/QML/Layouts)
-    - [Игра "Змейка". Pygame](https://github.com/ktoropova17/Portfolio/tree/main/QML/Stack%20View)
-    - [Роза Гранди. Turtle](https://github.com/ktoropova17/Portfolio/tree/main/QML/Standard%20interface%20elements)
-    - [Pattern. Turtle](https://github.com/ktoropova17/Portfolio/tree/main/QML/States%20and%20transitions)
+- **[Программирование](https://github.com/ktoropova17/Portfolio/tree/main/Programming)**
+    - [Игра Pygame на Sprite](https://github.com/ktoropova17/Portfolio/tree/main/Programming/pygame_sprite)
+    - [Игра "Змейка". Pygame](https://github.com/ktoropova17/Portfolio/tree/main/Programming/pygame_zmeika)
+    - [Роза Гранди. Turtle](https://github.com/ktoropova17/Portfolio/tree/main/Programming/rose_grande)
+    - [Pattern. Turtle](https://github.com/ktoropova17/Portfolio/tree/main/Programming/turtle)
 
 
-- **[Объектно-ориентированное рограммирование](https://github.com/ktoropova17/Portfolio/tree/main/QML)**
-    - [Игра "Четыре в ряд"](https://github.com/ktoropova17/Portfolio/tree/main/QML/Layouts)
+- **[Объектно-ориентированное рограммирование](https://github.com/ktoropova17/Portfolio/tree/main/OOP)**
+    - [Игра "Четыре в ряд"](https://github.com/ktoropova17/Portfolio/tree/main/OOP/Game%20Four_in_a_row)

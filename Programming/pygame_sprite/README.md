@@ -1,3 +1,3 @@
-# Игра Pygame. Sprite"
+# Игра Pygame. Sprite
 
 ![Alt text](gif/show.gif)
