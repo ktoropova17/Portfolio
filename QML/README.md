@@ -8,10 +8,10 @@
 
 ## Стандартные элементы интерфейса
 ### Поля для ввода логина и пароля
-![Alt text](Standarts_interface_elements/login_password/gif/show.gif)
+![Alt text](Standart_interface_elements/login_password/gif/show.gif)
 
 ### Страница с вводом пароля
-![Alt text](Standarts_interface_elements/pincode/gif/show.gif)
+![Alt text](Standart_interface_elements/pincode/gif/show.gif)
 
 
 ## Состояния и переходы
